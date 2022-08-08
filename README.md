@@ -24,7 +24,7 @@ The arguments must correspond properly (after type promotion) with the conversio
 
 ### Conversion specifiers
 A character that specifies the type of conversion to be applied. The conversion specifiers and their meanings are:
-| Character | Type of conversion to be applied |
+| Character | Type of conversion  |
 | ------ | ------ |
 | d, i | The int argument is converted to signed decimal notation. |
 | o, u, x, X | The unsigned int argument is converted to unsigned octal (o), unsigned decimal (u), or unsigned hexadecimal (x and X) notation.  The letters abcdef are used for x conversions; the letters ABCDEF are used for X conversions. |
