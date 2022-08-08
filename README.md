@@ -121,5 +121,5 @@ These instructions will get you a copy of the project up and running on your loc
 git clone https://github.com/wandilemawelela/printf.git
 ```
 
-## AUTHERS - COHORT 8
+## AUTHORS - COHORT 8
 Wandile Mawelela and Matlotlo Makomane.
