@@ -1,7 +1,7 @@
 # The ALX Holberton Software Enginering printf Function Team Project
 
 This is a printf function project built by Wandile Mawelela and Matlotlo Makomane for the ALX Holberton Software Engineering programme.
-## Name
+## NAME
 printf
 
 ## SYNOPSIS
